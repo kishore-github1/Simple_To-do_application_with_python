@@ -1,5 +1,2 @@
 python
-sciene
-chemistry
-java script
-omivores
+Raspberry pi

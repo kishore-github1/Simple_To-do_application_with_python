@@ -47,6 +47,7 @@ while True:
             write_todo(todos)
 
             window['show'].update(values=todos)
+            window['input'].update(value='')
         case sg.WIN_CLOSED:
             break
 
